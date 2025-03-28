@@ -1,0 +1,2 @@
+# Car Sales Data Analysis (COMP41680 Assignment 1)
+This project involves web scraping car sales data from a specified website, cleaning the data, and performing exploratory analysis using Jupyter Notebooks. Task 1 focuses on data collection, and Task 2 includes data preparation, visualization, and insights.
